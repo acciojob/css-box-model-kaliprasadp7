@@ -5,6 +5,7 @@
 	border: 15px solid blue;
 	width:300px;
 	background-color:rgb(173, 216, 230);
+	padding: 50px;
 }
 .inner-div{
 	padding:50px;
