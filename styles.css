@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.main-div{
+	margin:20px;
+	border: 15px solid blue;
+	width:400px;
+}
+.inner-div{
+	padding:50px;
+	color:black;
+	background-color:lightblue;
+	width:300px;
+}
